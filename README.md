@@ -1,2 +1,2 @@
 # Trex
-Done By = Prinnika SG
+Done By : Prinnika SG
